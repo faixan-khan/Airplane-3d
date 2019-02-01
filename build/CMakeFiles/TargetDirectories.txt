@@ -1,0 +1,3 @@
+/home/faizan/Airplane-3d/build/CMakeFiles/rebuild_cache.dir
+/home/faizan/Airplane-3d/build/CMakeFiles/graphics_asgn1.dir
+/home/faizan/Airplane-3d/build/CMakeFiles/edit_cache.dir
